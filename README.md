@@ -1,1 +1,1 @@
-Rust project to fix bluetooth audio
+Rust project to fix bluetooth audio unsyncing left and right speakers
